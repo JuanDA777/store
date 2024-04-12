@@ -1,0 +1,4 @@
+com\mycompany\store\JAXRSConfiguration.class
+servlets\SvAgregarProducto.class
+com\mycompany\store\resources\JavaEE8Resource.class
+com\mycompany\store\GestionarProducto.class
